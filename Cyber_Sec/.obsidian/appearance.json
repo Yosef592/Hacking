@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Atom",
+  "accentColor": "#690dc5",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
+}
