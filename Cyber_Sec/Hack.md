@@ -163,7 +163,7 @@
 
 ## 4, Cyber Security Field Terms
 - ==**1, Red Teaming / Offensive Security**==
-	- **Red teaming** is an authorized simulation of a real-world cyberattack, where testers act like genuine adversaries with a specific objective — such as gaining domain admin access or exfiltrating sensitive data — rather than just hunting for flaws. The real purpose is to test whether an organization can **detect and respond** to a determined attacker, not just whether vulnerabilities exist. It covers the whole organization: technology, people, and physical security together, and it's usually run stealthily, with only a few trusted people aware it's happening — because that secrecy is what makes the test of detection and response genuine.
+	- **Red teaming** is an authorized simulation of a real-world Cyber_Attack, where testers act like genuine adversaries with a specific objective — such as gaining domain admin access or exfiltrating sensitive data — rather than just hunting for flaws. The real purpose is to test whether an organization can **detect and respond** to a determined attacker, not just whether vulnerabilities exist. It covers the whole organization: technology, people, and physical security together, and it's usually run stealthily, with only a few trusted people aware it's happening — because that secrecy is what makes the test of detection and response genuine.
 
 	- ==**How it differs from a penetration test**==
 		- ==**Pentest**==: broad, time-boxed, looks for as many vulnerabilities as possible in a defined scope (e.g., "test this web app"). Defenders usually know it's happening.
