@@ -121,7 +121,7 @@
 - **Security Measures**.
 - **Documentation and Reporting Preparation**.
 
-- Why we need Penetration testing?
+- ==**Why we need Penetration testing?**==
 	- identification of threats
 	- security protections and controls
 	- assessment of organization's security
