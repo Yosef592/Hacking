@@ -137,9 +137,9 @@
 		- ==**5, Analysis and Reporting**==: All findings are documented in a report that includes vulnerabilities, their impact, supporting evidence, and recommended fixes. This helps the organization improve its security posture.
 
 - ==**Penetration Testing Methods**==
-	- ==**1, External Testing:**== Targets internet-facing systems such as websites, servers, and DNS to find vulnerabilities that attackers could exploit from outside the organization.
-	- ****Internal Testing:**** Simulates attacks from within the organization’s network to test internal security controls and identify insider or compromised-account risks.
-	- ****Blind Testing:**** The tester has very limited information about the system, which helps simulate a realistic external attack and evaluate detection capabilities.
+	- ==**1, External Testing**==: Targets internet-facing systems such as websites, servers, and DNS to find vulnerabilities that attackers could exploit from outside the organization.
+	- ==**Internal Testing**==: Simulates attacks from within the organization’s network to test internal security controls and identify insider or compromised-account risks.
+	- ==**Blind Testing**==: The tester has very limited information about the system, which helps simulate a realistic external attack and evaluate detection capabilities.
 	- ****Double-Blind Testing:**** Neither the tester nor the security team knows the full test details in advance, making it useful for assessing real-time response to unexpected attacks.
 	- ****Targeted Testing:**** The tester and security team work together during the assessment, allowing quick identification of vulnerabilities and better communication throughout the process.
 
