@@ -189,7 +189,11 @@ Think of it as the security equivalent of a castle's guards, walls, and watchtow
 
 
 
+### What a Security Audit Is
 
+A security audit is a systematic, documented assessment of an organization's information systems, policies, and controls to determine how well they protect data, infrastructure, and operations against threats — and whether they comply with relevant standards, regulations, or internal policies.
+
+Think of it less as a "test" and more as a **comprehensive health check** of your entire security posture. It's not just "can someone hack us" — it's "are we doing the right things, consistently, and can we prove it?"
 
 
 
