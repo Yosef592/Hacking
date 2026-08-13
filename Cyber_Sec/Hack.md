@@ -119,7 +119,7 @@
 - Penetration Testing is a method of evaluating the Security of an information system or network by simulating an real world attack to:
 - find vulnerability
 - security measures
-- documenting and reporting preparation
+- documentation and reporting preparation
 
 - Why we need Penetration testing?
 	- identification of threats
