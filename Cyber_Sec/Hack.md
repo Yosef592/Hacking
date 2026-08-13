@@ -128,9 +128,8 @@
 	- **Evaluation of Network Security**.
 	- **Upgradation of Infrastructure**.
 
-- **Penetration Testing Stages**==
-
-Penetration testing follows a structured process to identify vulnerabilities, validate security controls, and provide recommendations for improving security.
+- ==**Penetration Testing Stages**==
+	- Penetration testing follows a structured process to identify vulnerabilities, validate security controls, and provide recommendations for improving security.
 
 - ****Planning and Reconnaissance****: In this stage, the scope and objectives of the test are defined. The tester collects information about the target system, such as domains, IPs, technologies, and possible entry points.
 - ****Scanning****: The target system is scanned to identify open ports, running services, and known vulnerabilities. This helps understand how the system behaves and where weaknesses may exist.
