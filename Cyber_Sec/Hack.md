@@ -163,7 +163,7 @@
 
 ## 4, Cyber Security Field Terms
 - ==**1, Red Teaming / Offensive Security**==
-	- Red teaming is an authorized simulation of a real-world cyberattack, where testers act like genuine adversaries with a specific objective — such as gaining domain admin access or exfiltrating sensitive data — rather than just hunting for flaws. The real purpose is to test whether an organization can **detect and respond** to a determined attacker, not just whether vulnerabilities exist. It covers the whole organization: technology, people, and physical security together, and it's usually run stealthily, with only a few trusted people aware it's happening — because that secrecy is what makes the test of detection and response genuine.
+	- **Red teaming** is an authorized simulation of a real-world cyberattack, where testers act like genuine adversaries with a specific objective — such as gaining domain admin access or exfiltrating sensitive data — rather than just hunting for flaws. The real purpose is to test whether an organization can **detect and respond** to a determined attacker, not just whether vulnerabilities exist. It covers the whole organization: technology, people, and physical security together, and it's usually run stealthily, with only a few trusted people aware it's happening — because that secrecy is what makes the test of detection and response genuine.
 
 	- ==**How it differs from a penetration test**==
 		- ==**Pentest**==: broad, time-boxed, looks for as many vulnerabilities as possible in a defined scope (e.g., "test this web app"). Defenders usually know it's happening.
@@ -175,12 +175,7 @@
 
 - ==**Blue Teaming / Defensive Security**==
 	- **Blue Teaming** refers to the defensive side of cybersecurity — the people and processes responsible for protecting an organization's systems, networks, and data from attackers. Where a Red Team simulates the attacker (offense), the Blue Team plays defense: detecting, responding to, and preventing threats in real time.
-
-Think of it as the security equivalent of a castle's guards, walls, and watchtowers — constantly monitoring, patching weaknesses, and responding when something breaches the perimeter.
-
-
-
-
+	- Think of it as the security equivalent of a castle's guards, walls, and watchtowers — constantly monitoring, patching weaknesses, and responding when something breaches the perimeter.
 ### What a Security Audit Is
 
 A security audit is a systematic, documented assessment of an organization's information systems, policies, and controls to determine how well they protect data, infrastructure, and operations against threats — and whether they comply with relevant standards, regulations, or internal policies.
