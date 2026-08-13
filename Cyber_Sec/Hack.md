@@ -172,6 +172,13 @@ This trips people up a lot, so worth being precise:
 - **Pentest**: broad, time-boxed, looks for as many vulnerabilities as possible in a defined scope (e.g., "test this web app"). Defenders usually know it's happening.
 - **Red team**: narrow objective, stealthy, tests detection and response as much as the vulnerabilities themselves. Often the blue team (defenders) doesn't know it's happening — that's the point.
 
+### The Core Difference
+
+Penetration testing asks: **"What vulnerabilities exist here?"**  
+Red teaming asks: **"Could a real attacker reach their goal, and would we even notice?"**
+
+
+
 
 
 
