@@ -180,7 +180,7 @@ Red teaming asks: **"Could a real attacker reach their goal, and would we even n
 
 
 
-### What Blue Teaming Is
+### What Blue Teaming Is / Defensive Security
 
 **Blue Teaming** refers to the defensive side of cybersecurity — the people and processes responsible for protecting an organization's systems, networks, and data from attackers. Where a Red Team simulates the attacker (offense), the Blue Team plays defense: detecting, responding to, and preventing threats in real time.
 
