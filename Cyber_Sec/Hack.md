@@ -122,10 +122,10 @@
 - **Documentation and Reporting Preparation**.
 
 - ==**Why we need Penetration testing?**==
-	- identification of threats
-	- security protections and controls
-	- assessment of organization's security
-	- evaluation of network security
+	- **Identification of Threats**.
+	- **Security Protections and Controls**.
+	- **Assessment of Organization's Security**.
+	- **Evaluation of Network Security
 	- upgradation of infrastructure
 	- d
 	- s
