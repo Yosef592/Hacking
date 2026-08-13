@@ -176,10 +176,9 @@
 - ==**Blue Teaming / Defensive Security**==
 	- **Blue Teaming** refers to the defensive side of cybersecurity — the people and processes responsible for protecting an organization's systems, networks, and data from attackers. Where a Red Team simulates the attacker (offense), the Blue Team plays defense: detecting, responding to, and preventing threats in real time.
 	- Think of it as the security equivalent of a castle's guards, walls, and watchtowers — constantly monitoring, patching weaknesses, and responding when something breaches the perimeter.
-### What a Security Audit Is
 
-A security audit is a systematic, documented assessment of an organization's information systems, policies, and controls to determine how well they protect data, infrastructure, and operations against threats — and whether they comply with relevant standards, regulations, or internal policies.
-
+- ==**Security Audit**==
+	- A security audit is a systematic, documented assessment of an organization's information systems, policies, and controls to determine how well they protect data, infrastructure, and operations against threats — and whether they comply with relevant standards, regulations, or internal policies.
 Think of it less as a "test" and more as a **comprehensive health check** of your entire security posture. It's not just "can someone hack us" — it's "are we doing the right things, consistently, and can we prove it?"
 
 
