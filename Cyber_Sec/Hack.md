@@ -163,7 +163,7 @@
 
 ## 4, Cyber Security Field Terms
 - ==**1, Red Teaming/Offensive Security**==
-	- Red Teaming involves simulating real-world attacks to test an organization's security posture.
+	- Red teaming in Cyber_Security is the practice of simulating real-world adversary attacks against an organization's systems, people, and processes to test how well its defenses actually hold up — not on paper, but in practice.
 	- 
 
 
