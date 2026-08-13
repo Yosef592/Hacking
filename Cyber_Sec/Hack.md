@@ -115,7 +115,7 @@
 
 
 ## 3, Penetration Testing
-- Penetration testing or pen_testing is a practice where a simulated [**cyber attack**](https://www.geeksforgeeks.org/ethical-hacking/what-is-a-cyber-attack/)  is conducted on your [computer systems](https://www.geeksforgeeks.org/computer-organization-architecture/computer-system-level-hierarchy/) to find and fix any weak spots before real attackers can exploit them.
+- Penetration Testing or pen_testing is a practice where a simulated [**cyber attack**](https://www.geeksforgeeks.org/ethical-hacking/what-is-a-cyber-attack/)  is conducted on your [computer systems](https://www.geeksforgeeks.org/computer-organization-architecture/computer-system-level-hierarchy/) to **find and fix any weak spots before real attackers can exploit them**.
 - Penetration Testing is a method of evaluating the Security of an information system or network by simulating an real world attack to:
 - find vulnerability
 - security measures
