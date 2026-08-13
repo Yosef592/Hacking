@@ -138,10 +138,10 @@
 
 - ==**Penetration Testing Methods**==
 	- ==**1, External Testing**==: Targets internet-facing systems such as websites, servers, and DNS to find vulnerabilities that attackers could exploit from outside the organization.
-	- ==**Internal Testing**==: Simulates attacks from within the organization’s network to test internal security controls and identify insider or compromised-account risks.
-	- ==**Blind Testing**==: The tester has very limited information about the system, which helps simulate a realistic external attack and evaluate detection capabilities.
-	- ==**Double-Blind Testing**==: Neither the tester nor the security team knows the full test details in advance, making it useful for assessing real-time response to unexpected attacks.
-	- ==**Targeted Testing**==: The tester and security team work together during the assessment, allowing quick identification of vulnerabilities and better communication throughout the process.
+	- ==**2, Internal Testing**==: Simulates attacks from within the organization’s network to test internal security controls and identify insider or compromised-account risks.
+	- ==**3, Blind Testing**==: The tester has very limited information about the system, which helps simulate a realistic external attack and evaluate detection capabilities.
+	- ==**4, Double-Blind Testing**==: Neither the tester nor the security team knows the full test details in advance, making it useful for assessing real-time response to unexpected attacks.
+	- ==**5, Targeted Testing**==: The tester and security team work together during the assessment, allowing quick identification of vulnerabilities and better communication throughout the process.
 
 - ==**Types of Penetration Testing**==
 	- Here are the Types of Penetration Testing:
