@@ -173,6 +173,11 @@
 		- Penetration testing asks: **"What vulnerabilities exist here?"**  
 		- Red teaming asks: **"Could a real attacker reach their goal, and would we even notice?"**
 
+![[Pasted image 20260813094155.png]]
+
+
+
+
 - ==**Blue Teaming / Defensive Security**==
 	- **Blue Teaming** refers to the defensive side of Cyber_Security — the people and processes responsible for protecting an organization's systems, networks, and data from attackers. Where a Red Team simulates the attacker (offense), the Blue Team plays defense: detecting, responding to, and preventing threats in real time.
 	- Think of it as the security equivalent of a castle's guards, walls, and watchtowers — constantly monitoring, patching weaknesses, and responding when something breaches the perimeter.
