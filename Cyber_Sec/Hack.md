@@ -158,6 +158,17 @@ Here are the Types of Penetration Testing:
 - ****White Box Penetration Testing:**** In white box testing, the tester has complete knowledge of the system, including source code and architecture. It enables a deep security assessment and helps uncover hidden vulnerabilities and misconfigurations
 
 
+## Rules of the Penetration Testing Process
+
+Penetration testing must be conducted safely, ethically, and within agreed boundaries to avoid legal, operational, or security issues.
+
+- Obtain proper written authorization before starting the test
+- Clearly define the scope, objectives, timeline, and allowed techniques
+- Avoid disrupting systems or causing unnecessary downtime
+- Maintain confidentiality of sensitive information discovered during testing
+- Document findings responsibly and report vulnerabilities clearly
+
+
 
 
 
