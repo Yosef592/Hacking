@@ -127,9 +127,8 @@
 	- **Assessment of Organization's Security**.
 	- **Evaluation of Network Security**.
 	- **Upgradation of Infrastructure**.
-	- d
-	- s
-	- ## Penetration Testing Stages
+
+- **Penetration Testing Stages**==
 
 Penetration testing follows a structured process to identify vulnerabilities, validate security controls, and provide recommendations for improving security.
 
