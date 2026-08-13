@@ -144,12 +144,10 @@
 	- ==**Targeted Testing**==: The tester and security team work together during the assessment, allowing quick identification of vulnerabilities and better communication throughout the process.
 
 - ==**Types of Penetration Testing**==
-
-Here are the Types of Penetration Testing:
-
-- ****Black Box Penetration Testing:**** In black box testing, the tester has no prior knowledge of the target system. It simulates a real-world external attack and helps identify vulnerabilities from an attacker’s perspective. test as an attacker.
-- ****Grey Box Penetration Testing:**** In grey box testing, the tester has partial knowledge of the system, such as limited access or network details. It allows more focused testing while combining both external and internal viewpoints. test as ans user.
-- ****White Box Penetration Testing:**** In white box testing, the tester has complete knowledge of the system, including source code and architecture. It enables a deep security assessment and helps uncover hidden vulnerabilities and misconfigurations. test as an developer.
+	- Here are the Types of Penetration Testing:
+		- ==**Black Box Penetration Testing**==: In black box testing, the tester has no prior knowledge of the target system. It simulates a real-world external attack and helps identify vulnerabilities from an attacker’s perspective. test as an attacker.
+		- ==**Grey Box Penetration Testing**==: In grey box testing, the tester has partial knowledge of the system, such as limited access or network details. It allows more focused testing while combining both external and internal viewpoints. test as ans user.
+		- ****White Box Penetration Testing:**** In white box testing, the tester has complete knowledge of the system, including source code and architecture. It enables a deep security assessment and helps uncover hidden vulnerabilities and misconfigurations. test as an developer.
 
 
 ## Rules of the Penetration Testing Process
