@@ -120,7 +120,7 @@
 - find vulnerability
 - security measures
 - documenting and reporting preparation
-
+- 
 
 
 
