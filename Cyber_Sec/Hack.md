@@ -120,7 +120,9 @@
 - find vulnerability
 - security measures
 - documenting and reporting preparation
-- 
+
+- Why we need Penetration testing?
+	- identification of 
 
 
 
