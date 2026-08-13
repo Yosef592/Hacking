@@ -131,11 +131,11 @@
 - ==**Penetration Testing Stages**==
 	- Penetration testing follows a structured process to identify vulnerabilities, validate security controls, and provide recommendations for improving security.
 
-- ****Planning and Reconnaissance****: In this stage, the scope and objectives of the test are defined. The tester collects information about the target system, such as domains, IPs, technologies, and possible entry points.
-- ****Scanning****: The target system is scanned to identify open ports, running services, and known vulnerabilities. This helps understand how the system behaves and where weaknesses may exist.
-- ****Gaining Access****: The tester attempts to exploit identified vulnerabilities to gain unauthorized access to the system. This shows how an attacker could reach sensitive data or critical functions.
-- ****Maintaining Access****: After gaining access, the tester checks whether access can be maintained over time. This helps assess the severity of the vulnerability and the risk of long-term compromise.
-- ****Analysis and Reporting****: All findings are documented in a report that includes vulnerabilities, their impact, supporting evidence, and recommended fixes. This helps the organization improve its security posture.
+		- ****Planning and Reconnaissance****: In this stage, the scope and objectives of the test are defined. The tester collects information about the target system, such as domains, IPs, technologies, and possible entry points.
+		- ****Scanning****: The target system is scanned to identify open ports, running services, and known vulnerabilities. This helps understand how the system behaves and where weaknesses may exist.
+		- ****Gaining Access****: The tester attempts to exploit identified vulnerabilities to gain unauthorized access to the system. This shows how an attacker could reach sensitive data or critical functions.
+		- ****Maintaining Access****: After gaining access, the tester checks whether access can be maintained over time. This helps assess the severity of the vulnerability and the risk of long-term compromise.
+		- ****Analysis and Reporting****: All findings are documented in a report that includes vulnerabilities, their impact, supporting evidence, and recommended fixes. This helps the organization improve its security posture.
 
 
 ## Penetration Testing Methods
