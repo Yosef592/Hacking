@@ -185,11 +185,11 @@
 	- A vulnerability assessment is a systematic process of **identifying, classifying, and prioritizing security weaknesses** in systems, networks, applications, or infrastructure — without actually exploiting them. The goal is to answer one question: _"What weaknesses exist, and how bad are they?"_
 
 	- ==**How it works (simplified)**==:
-		1. ==**Identify assets**== — know what systems/devices are in scope
-		2. ==**Scan**== — use tools (Nessus, Qualys, etc.) to detect known vulnerabilities, missing patches, misconfigurations
-		3. ==**Analyze**== — filter false positives, confirm real issues
-		4. ==**Rate severity**== — usually via CVSS score
-		5. ==**Report**== — list of vulnerabilities with fixes recommended
+		1. ==**Identify assets**== — know what systems/devices are in scope.
+		2. ==**Scan**== — use tools (Nessus, Qualys, etc.) to detect known vulnerabilities, missing patches, misconfigurations.
+		3. ==**Analyze**== — filter false positives, confirm real issues.
+		4. ==**Rate severity**== — usually via CVSS score.
+		5. ==**Report**== — list of vulnerabilities with fixes recommended.
 
 
 
