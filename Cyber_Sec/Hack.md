@@ -130,15 +130,13 @@
 
 - ==**Penetration Testing Stages**==
 	- Penetration testing follows a structured process to identify vulnerabilities, validate security controls, and provide recommendations for improving security.
-
 		- ==**1, Planning and Reconnaissance**==: In this stage, the scope and objectives of the test are defined. The tester collects information about the target system, such as domains, IPs, technologies, and possible entry points.
 		- ==**2, Scanning**==: The target system is scanned to identify open ports, running services, and known vulnerabilities. This helps understand how the system behaves and where weaknesses may exist.
 		- ==**3, Gaining Access**==: The tester attempts to exploit identified vulnerabilities to gain unauthorized access to the system. This shows how an attacker could reach sensitive data or critical functions.
 		- ==**4, Maintaining Access**==: After gaining access, the tester checks whether access can be maintained over time. This helps assess the severity of the vulnerability and the risk of long-term compromise.
 		- ==**5, Analysis and Reporting**==: All findings are documented in a report that includes vulnerabilities, their impact, supporting evidence, and recommended fixes. This helps the organization improve its security posture.
 
-
-## Penetration Testing Methods
+- **Penetration Testing Methods
 
 - ****External Testing:**** Targets internet-facing systems such as websites, servers, and DNS to find vulnerabilities that attackers could exploit from outside the organization.
 - ****Internal Testing:**** Simulates attacks from within the organization’s network to test internal security controls and identify insider or compromised-account risks.
