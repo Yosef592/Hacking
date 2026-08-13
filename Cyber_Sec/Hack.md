@@ -125,7 +125,9 @@
 	- identification of threats
 	- security protections and controls
 	- assessment of organization's security
-	- evaluation of network security 
+	- evaluation of network security
+	- upgradation of infrastructure
+	- 
 
 
 
