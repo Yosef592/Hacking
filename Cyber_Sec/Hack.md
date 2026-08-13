@@ -168,15 +168,12 @@
 	- ==**How it differs from a penetration test**==
 		- ==**Pentest**==: broad, time-boxed, looks for as many vulnerabilities as possible in a defined scope (e.g., "test this web app"). Defenders usually know it's happening.
 		- ==**Red team**==: narrow objective, stealthy, tests detection and response as much as the vulnerabilities themselves. Often the blue team (defenders) doesn't know it's happening — that's the point.
-### The Core Difference
 
-Penetration testing asks: **"What vulnerabilities exist here?"**  
-Red teaming asks: **"Could a real attacker reach their goal, and would we even notice?"**
+	- ==**The Core Difference**==
+		- Penetration testing asks: **"What vulnerabilities exist here?"**  
+		- Red teaming asks: **"Could a real attacker reach their goal, and would we even notice?"**
 
-
-
-
-### What Blue Teaming Is / Defensive Security
+What Blue Teaming Is / Defensive Security
 
 **Blue Teaming** refers to the defensive side of cybersecurity — the people and processes responsible for protecting an organization's systems, networks, and data from attackers. Where a Red Team simulates the attacker (offense), the Blue Team plays defense: detecting, responding to, and preventing threats in real time.
 
