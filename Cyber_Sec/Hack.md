@@ -155,7 +155,7 @@
 		- **Clearly define the scope, objectives, timeline, and allowed techniques**.
 		- **Avoid disrupting systems or causing unnecessary downtime**.
 		- **Maintain confidentiality of sensitive information discovered during testing**.
-		- **Document findings responsibly and report vulnerabilities clearly
+		- **Document findings responsibly and report vulnerabilities clearly**.
 
 
 
