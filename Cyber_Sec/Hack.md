@@ -197,7 +197,7 @@
 		4. ==**Rate severity**== — usually via CVSS score.
 		5. ==**Report**== — list of vulnerabilities with fixes recommended.
 
-
+	![[Pasted image 20260813100012.png]]
 
 
 
