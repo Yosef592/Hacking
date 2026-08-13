@@ -125,8 +125,8 @@
 	- **Identification of Threats**.
 	- **Security Protections and Controls**.
 	- **Assessment of Organization's Security**.
-	- **Evaluation of Network Security
-	- upgradation of infrastructure
+	- **Evaluation of Network Security**.
+	- **Upgradation of Infrastructure**.
 	- d
 	- s
 	- ## Penetration Testing Stages
