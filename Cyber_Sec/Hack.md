@@ -157,8 +157,7 @@
 		- **Maintain confidentiality of sensitive information discovered during testing**.
 		- **Document findings responsibly and report vulnerabilities clearly**.
 
-
-
+![[Pasted image 20260813043817.png]]
 
 
 
