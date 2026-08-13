@@ -196,7 +196,9 @@ A security audit is a systematic, documented assessment of an organization's inf
 Think of it less as a "test" and more as a **comprehensive health check** of your entire security posture. It's not just "can someone hack us" — it's "are we doing the right things, consistently, and can we prove it?"
 
 
+### What a Vulnerability Assessment Is
 
+A vulnerability assessment is a systematic process of **identifying, classifying, and prioritizing security weaknesses** in systems, networks, applications, or infrastructure — without actually exploiting them. The goal is to answer one question: _"What weaknesses exist, and how bad are they?"_
 
 
 
