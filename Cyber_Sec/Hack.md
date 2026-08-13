@@ -173,7 +173,7 @@
 		- Penetration testing asks: **"What vulnerabilities exist here?"**  
 		- Red teaming asks: **"Could a real attacker reach their goal, and would we even notice?"**
 
-![[Pasted image 20260813094155.png]]
+	![[Pasted image 20260813094155.png]]
 
 
 
