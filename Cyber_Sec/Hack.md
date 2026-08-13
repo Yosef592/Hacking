@@ -165,6 +165,13 @@
 - ==**1, Red Teaming/Offensive Security**==
 	- Red teaming in Cyber_Security is the practice of simulating real-world adversary attacks against an organization's systems, people, and processes to test how well its defenses actually hold up — not on paper, but in practice.
 	- 
+### How it differs from a penetration test
+
+This trips people up a lot, so worth being precise:
+
+- **Pentest**: broad, time-boxed, looks for as many vulnerabilities as possible in a defined scope (e.g., "test this web app"). Defenders usually know it's happening.
+- **Red team**: narrow objective, stealthy, tests detection and response as much as the vulnerabilities themselves. Often the blue team (defenders) doesn't know it's happening — that's the point.
+
 
 
 
