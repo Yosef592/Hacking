@@ -205,8 +205,8 @@
 - **Cyber Security Expert**
 - **Security/SOC/ Analyst**
 - **Cyber Security Consultant**
-- **Web Penetration Tester
-- mobile penetration tester
+- **Web Penetration Tester**
+- **Mobile Penetration Tester**
 - internal and external penetration tester
 - network security tester
 - bug bounty hunter
