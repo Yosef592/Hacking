@@ -210,6 +210,7 @@
 - internal and external penetration tester
 - network security tester
 - bug bounty hunter
+- digital forensic 
 - 
 
 
