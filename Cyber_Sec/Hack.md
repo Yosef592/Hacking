@@ -207,12 +207,12 @@
 - **Cyber Security Consultant**
 - **Web Penetration Tester**
 - **Mobile Penetration Tester**
-- internal and external penetration tester
-- network security tester
-- bug bounty hunter
-- digital forensic 
-- incident response
-- threat hunter
+- **Internal and External Penetration Tester**
+- **Network Security Tester**
+- **Bug Bounty Hunter**
+- **Digital Forensic** 
+- **Incident Response**
+- **Threat hunter
 - threat intelligence
 - security architecture
 - 
