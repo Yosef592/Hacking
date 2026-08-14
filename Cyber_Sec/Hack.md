@@ -212,10 +212,10 @@
 - **Bug Bounty Hunter**
 - **Digital Forensic** 
 - **Incident Response**
-- **Threat hunter
-- threat intelligence
-- security architecture
-- 
+- **Threat Hunter**
+- **Threat Intelligence**
+- **Security Architecture**
+
 
 
 
