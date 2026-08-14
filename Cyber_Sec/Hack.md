@@ -216,8 +216,8 @@
 - **Threat Intelligence**
 - **Security Architecture**
 
-
-
+	![[Pasted image 20260814090940.png]]
+	![[Pasted image 20260814091004.png]]
 
 
 
