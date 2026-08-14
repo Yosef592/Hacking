@@ -208,7 +208,9 @@
 - web penetration tester
 - mobile penetration tester
 - internal and external penetration tester
-- network security 
+- network security tester
+- bug bounty hunter
+- 
 
 
 
