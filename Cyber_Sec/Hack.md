@@ -224,7 +224,9 @@
 -----
 
 # Networking
-## 
+## Networking Learning Repository
+
+A complete networking guide covering the essential concepts and skills you need to learn networking, with additional topics added over time.
 
 
 
