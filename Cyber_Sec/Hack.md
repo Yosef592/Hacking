@@ -213,6 +213,7 @@
 - digital forensic 
 - incident response
 - threat hunter
+- threat intelligence
 - 
 
 
