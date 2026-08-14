@@ -204,8 +204,8 @@
 ## 5, Jobs with Cyber Security
 - **Cyber Security Expert**
 - **Security/SOC/ Analyst**
-- cyber security consultant
-- web penetration tester
+- **Cyber Security Consultant**
+- **Web Penetration Tester
 - mobile penetration tester
 - internal and external penetration tester
 - network security tester
