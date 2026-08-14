@@ -214,6 +214,7 @@
 - incident response
 - threat hunter
 - threat intelligence
+- security architecture
 - 
 
 
