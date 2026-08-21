@@ -235,11 +235,5 @@
 # Network Scanning
 # Steganography and Cryptography
 # Osint
-# Social Engineering
-# Anonymity & DarkWeb
-# Malware Threats
-# Network Hacking
-# Wireless Network Hacking
-# System Hacking
 # CTF
 
